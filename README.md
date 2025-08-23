@@ -8,5 +8,8 @@ Añadí una nueva línea al README después de clonar el repositorio.
 
 
 
-Hola, mi nombre es Yeimy y soy estudiante de Estadística con experiencia en análisis financiero. Aplico modelos predictivos y multivariados. Manejo R, Python, SQL, Power BI.
+Soy estudiante de Estadística con experiencia en análisis financiero. Aplico modelos predictivos y multivariados. Manejo R, Python, SQL, Power BI.
 
+
+
+Ahora voy a hacer uso de la sentencia "PULL"
