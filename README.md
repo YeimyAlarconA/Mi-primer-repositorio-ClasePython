@@ -8,7 +8,7 @@ Añadí una nueva línea al README después de clonar el repositorio.
 
 
 
-Soy estudiante de Estadística con experiencia en análisis financiero. Aplico modelos predictivos y multivariados. Manejo R, Python, SQL, Power BI.
+Soy estudiante de Estadística con experiencia en análisis financiero. Manejo R, Python, SQL, Power BI.
 
 
 
