@@ -12,4 +12,4 @@ Soy estudiante de Estadística con experiencia en análisis financiero. Manejo R
 
 
 
-Ahora voy a hacer uso de la sentencia "PULL".
+Ahora voy a hacer uso de la sentencia "PULL". 
